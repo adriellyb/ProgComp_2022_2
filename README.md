@@ -9,3 +9,4 @@ _Repositório com os algoritmos feitos durante as aulas de Programação de Comp
 Consiste em seguir a sequencia numérica de 0 a 100 onde a cada múltiplo de 3 é expressa a palavra _fizz_ e a cada múltiplo de 5 é expressa a palavra _buzz_. Quando o número é multiplo tanto de 3 quanto de 5, é expressa a palavra _fizzbuzz_.
 
 ### #2 Desafio Tiro ao Alvo
+Algoritmo que calcula se o usuário acertou o alvo ou não, a partir das coordenadas do tiro (xp e yp), as coordenadas do centro alvo (xc e yp) e o raio do alvo (r).
